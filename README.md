@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zayhstevens
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Artificial Intelligence software.
 - 📫 How to reach me: isaiahstevens17@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I own an impressive baseball card collection.
